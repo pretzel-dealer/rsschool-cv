@@ -1,0 +1,44 @@
+html {
+    background-image: url(images/bg.png);
+    font-size: 2em;
+    text-align: center;
+
+}
+
+div{
+    border: solid;
+    padding: 30px;
+    margin: 10px;
+    border-color: yellow;
+}
+main {
+    margin-left: 400px;
+    margin-right: 400px;
+}
+header {
+    border-bottom: solid;
+    border-color: yellow;
+    font-size: xx-large;
+    text-align: center;
+    color: midnightblue;
+}
+img {
+    position: relative;
+}
+
+.image {
+    border: none;
+}
+li {
+    font-style: italic;
+}
+h4 {
+    margin: 0px;
+}
+footer {
+    border-top: solid;
+    border-color: yellow;
+    font-size: xx-large;
+    text-align: center;
+    color: midnightblue;
+}
