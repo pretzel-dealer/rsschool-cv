@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/pretzel-dealer/rsschool-cv
+## Full name: Vladimir Kuntsevich
